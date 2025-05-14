@@ -3,11 +3,12 @@ main {
 }
 
 nav { 
+    color: #050e3d;
     padding: 10px;
 }
 
 nav a {
-    color: white;
+    color: #3d052f;
     padding: 10px;
     display: block;
 }
